@@ -1,0 +1,16 @@
+{
+  "helpEmbed1Title": "__**・୨୧ `🌼`꒰‧⁺𝐍𝐞𝐞𝐝 𝐬𝐨𝐦𝐞 𝐡𝐞𝐥𝐩?‧˚₊꒷꒦**__",
+	"helpEmbed1Descr": "꒷꒦︰prefix ꒰`,`꒱\n꒷꒦︰`<>` for mandatory arguments・`{}` for optional arguments.\n\n**﹕୨୧・꒰`🌱`꒱┊𝐇𝐚𝐯𝐢𝐧𝐠 𝐏𝐫𝐨𝐛𝐥𝐞𝐦𝐬? ︵︵ ୨୧**\n╭ʚ～If you are having troubles with commands, please run `,help <command name>` ɞ˚⊹\n**﹕୨୧・꒰`🌱`꒱┊ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐌𝐨𝐝𝐮𝐥𝐞𝐬 ɞ˚₊‿︵˚⊹ ୨୧**\nBelow are the command modules. Use `,help <module name>`\n\n`⊹˚︵‿₊˚ʚ 🌿 : Admin - Administration Commands`\n`⊹˚︵‿₊˚ʚ 🍃 : Mod - Moderation Commands      `\n`⊹˚︵‿₊˚ʚ 🌿 : Fun - Fun Commands             `\n`⊹˚︵‿₊˚ʚ 🍃 : Eco - Economy Commands         `\n`⊹˚︵‿₊˚ʚ 🌿 : Misc - Miscellaneous Commands  `",
+
+	"helpTextAdminModule": "︶︶꒷꒦︶`🌿`꒷꒦︶︶꒷꒦˚₊\n﹕୨୧・꒰`🌱`꒱┊`,disableModule <module name>`\n﹕୨୧・꒰`🍃`꒱┊`,enableModule <module name>`\n﹕୨୧・꒰`🌱`꒱┊`,die`\n︶︶꒷꒦︶`🌿`꒷꒦︶︶꒷꒦˚₊\n╰ ︶๑︶꒷꒦ ︶꒦︶๑꒷︶꒷₊˚︶",
+  "helpTitleAdminModule": "╭・₊˚ `🌼`꒱✦ __**𝐀𝐝𝐦𝐢𝐧𝐢𝐬𝐭𝐫𝐚𝐭𝐢𝐨𝐧 𝐌𝐨𝐝𝐮𝐥𝐞**__₊˚‧ˎˊ˗",
+	"helpTextModModule": "︶︶꒷꒦︶`🌿`꒷꒦︶︶꒷꒦˚₊\n﹕୨୧・꒰`🌱`꒱┊`,kick <user> {reason}`\n﹕୨୧・꒰`🍃`꒱┊`,ban <user> {reason}`\n﹕୨୧・꒰`🌱`꒱┊`,unban <user>`\n︶︶꒷꒦︶`🌿`꒷꒦︶︶꒷꒦˚₊\n╰ ︶๑︶꒷꒦ ︶꒦︶๑꒷︶꒷₊˚︶",
+  "helpTitleModModule": "╭・₊˚ `🌼`꒱✦ __**𝐌𝐨𝐝𝐞𝐫𝐚𝐭𝐢𝐨𝐧 𝐌𝐨𝐝𝐮𝐥𝐞**__₊˚‧ˎˊ˗",
+	"helpTextFunModule": "︶︶꒷꒦︶`🌿`꒷꒦︶︶꒷꒦˚₊\n﹕୨୧・꒰`🌱`꒱┊`,hug <user>`\n﹕୨୧・꒰`🍃`꒱┊`,kiss <user>`\n﹕୨୧・꒰`🌱`꒱┊`,slap <user>`\n﹕୨୧・꒰`🍃`꒱┊`,pat <user>`\n﹕୨୧・꒰`🌱`꒱┊`,say <message>`\n﹕୨୧・꒰`🍃`꒱┊`,greetmsg <message>`\n︶︶꒷꒦︶`🌿`꒷꒦︶︶꒷꒦˚₊\n╰ ︶๑︶꒷꒦ ︶꒦︶๑꒷︶꒷₊˚︶",
+  "helpTitleFunModule": "╭・₊˚ `🌼`꒱✦ __**𝐅𝐮𝐧 𝐌𝐨𝐝𝐮𝐥𝐞**__₊˚‧ˎˊ˗",
+	"helpTextEcoModule": "︶︶꒷꒦︶`🌿`꒷꒦︶︶꒷꒦˚₊\n﹕୨୧・꒰`🌱`꒱┊`coming soon.`\n︶︶꒷꒦︶`🌿`꒷꒦︶︶꒷꒦˚₊\n╰ ︶๑︶꒷꒦ ︶꒦︶๑꒷︶꒷₊˚︶",
+  "helpTitleEcoModule": "╭・₊˚ `🌼`꒱✦ __**𝐄𝐜𝐨𝐧𝐨𝐦𝐲 𝐌𝐨𝐝𝐮𝐥𝐞**__₊˚‧ˎˊ˗",
+	"helpTextMiscModule": "︶︶꒷꒦︶`🌿`꒷꒦︶︶꒷꒦˚₊\n﹕୨୧・꒰`🌱`꒱┊`,help {module name}`\n﹕୨୧・꒰`🍃`꒱┊`,ping`\n﹕୨୧・꒰`🌱`꒱┊`,invite`\n﹕୨୧・꒰`🍃`꒱┊`,avatar {user}`\n﹕୨୧・꒰`🌱`꒱┊`,stats`\n﹕୨୧・꒰`🍃`꒱┊`,opensource`\n﹕୨୧・꒰`🌱`꒱┊`,prefix <prefix>`\n︶︶꒷꒦︶`🌿`꒷꒦︶︶꒷꒦˚₊\n╰ ︶๑︶꒷꒦ ︶꒦︶๑꒷︶꒷₊˚︶",
+  "helpTitleMiscModule": "╭・₊˚ `🌼`꒱✦ __**𝐌𝐢𝐬𝐜𝐞𝐥𝐥𝐚𝐧𝐞𝐨𝐮𝐬 𝐌𝐨𝐝𝐮𝐥𝐞**__₊˚‧ˎˊ˗"
+}
+

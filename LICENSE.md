@@ -9,7 +9,7 @@ Licence SayumiBunny Bot 2021.
 
 What counts as credits?
 
-1. The footer in the help command linking Flo's repl.it.
+1. The footer in the help command linking Sayumi's repl.it.
 2. The licence file.
 3. Any notes stating ownership of the code.
 

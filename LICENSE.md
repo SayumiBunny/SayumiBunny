@@ -1,4 +1,4 @@
-Licence Kaito Bot 2021.
+Licence SayumiBunny Bot 2021.
 
 1. You can't use your own credits.
 2. You can modify the code, but do not edit the credits.

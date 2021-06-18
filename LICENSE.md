@@ -16,4 +16,4 @@ What counts as credits?
 You may not remove these credits if using this code.
 
 
-This code is the property of: flo0003, dok4440.
+This code is the property of: twinslutz#0777
